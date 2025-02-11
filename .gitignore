@@ -14,3 +14,6 @@ pubspec.lock
 
 # 로그 파일
 *.log
+
+# 서명 키 (보안 필수)
+key.jks
