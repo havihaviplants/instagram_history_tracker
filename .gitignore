@@ -1,0 +1,16 @@
+# Android Studio 설정 파일
+.idea/
+.gradle/
+*.iml
+
+# 빌드 파일
+build/
+.android/
+.ios/
+
+# 패키지 관리 파일
+.dart_tool/
+pubspec.lock
+
+# 로그 파일
+*.log
